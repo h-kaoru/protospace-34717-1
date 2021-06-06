@@ -21,7 +21,7 @@
 | image      |           |          |
 | position   | reference |          |
 
-##  prototypesテーブル
+##  Commentsテーブル
 
 | Column    | Type      | Options  |
 | --------- | --------- | -------- |
